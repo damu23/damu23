@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @damu23
+- 👋 Hi, I’m @damu23 
 - 👀 I’m interested in JAVA , JAVA spring , Microservices
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Spark and Hadoop
 - 💞️ I’m looking to collaborate on Microservices
 - 📫 reach me ... damumahendar23@gmail.com
 
